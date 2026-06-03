@@ -1,0 +1,189 @@
+{
+  "generatedBy": "scrape_pregnancy_sources.py",
+  "records": [
+    {
+      "id": "iss_acido_folico",
+      "month": 1,
+      "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/acido-folico",
+      "source": "ISSalute",
+      "kind": "articolo",
+      "title": "A",
+      "sections": [],
+      "videos": [],
+      "status": "ok"
+    },
+    {
+      "id": "humanitas_gravidanza",
+      "month": 2,
+      "url": "https://www.humanitas.it/enciclopedia/salute-e-benessere/gravidanza/",
+      "source": "Humanitas",
+      "kind": "articolo",
+      "title": "",
+      "sections": [],
+      "videos": [],
+      "status": "error: HTTPError"
+    },
+    {
+      "id": "santagostino_primo_trimestre",
+      "month": 3,
+      "url": "https://www.santagostino.it/it/santagostinopedia/primo-trimestre-gravidanza",
+      "source": "Santagostino",
+      "kind": "articolo",
+      "title": "",
+      "sections": [],
+      "videos": [],
+      "status": "error: HTTPError"
+    },
+    {
+      "id": "santagostino_secondo_trimestre",
+      "month": 4,
+      "url": "https://www.santagostino.it/it/santagostinopedia/secondo-trimestre-gravidanza",
+      "source": "Santagostino",
+      "kind": "articolo",
+      "title": "",
+      "sections": [],
+      "videos": [],
+      "status": "error: HTTPError"
+    },
+    {
+      "id": "humanitas_alimentazione",
+      "month": 5,
+      "url": "https://www.humanitas.it/news/alimentazione-in-gravidanza-cosa-mangiare-e-cosa-evitare/",
+      "source": "Humanitas",
+      "kind": "articolo",
+      "title": "",
+      "sections": [],
+      "videos": [],
+      "status": "error: HTTPError"
+    },
+    {
+      "id": "bge_allattamento",
+      "month": 6,
+      "url": "https://www.ospedalebambinogesu.it/allattamento-al-seno-consigli-pratici-105608/",
+      "source": "Bambino Gesu",
+      "kind": "video",
+      "title": "Allattamento al seno, consigli pratici",
+      "sections": [],
+      "videos": [
+        {
+          "id": "GyDf_9vk6hk",
+          "watchUrl": "https://www.youtube.com/watch?v=GyDf_9vk6hk",
+          "thumbnail": "https://img.youtube.com/vi/GyDf_9vk6hk/hqdefault.jpg"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "santagostino_terzo_trimestre",
+      "month": 7,
+      "url": "https://www.santagostino.it/it/santagostinopedia/terzo-trimestre-gravidanza",
+      "source": "Santagostino",
+      "kind": "articolo",
+      "title": "",
+      "sections": [],
+      "videos": [],
+      "status": "error: HTTPError"
+    },
+    {
+      "id": "bge_pertosse",
+      "month": 8,
+      "url": "https://www.ospedalebambinogesu.it/il-vaccino-contro-la-pertosse-in-gravidanza---intervista-al-dott-tozzi-104234/",
+      "source": "Bambino Gesu",
+      "kind": "video",
+      "title": "Il vaccino contro la pertosse in gravidanza - Intervista al dottor Alberto Eugenio Tozzi",
+      "sections": [],
+      "videos": [
+        {
+          "id": "PRIXwv6-VzQ",
+          "watchUrl": "https://www.youtube.com/watch?v=PRIXwv6-VzQ",
+          "thumbnail": "https://img.youtube.com/vi/PRIXwv6-VzQ/hqdefault.jpg"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "ministero_gravidanza",
+      "month": 9,
+      "url": "https://www.salute.gov.it/new/it/tema/salute-della-donna/gravidanza-0/",
+      "source": "Ministero della Salute",
+      "kind": "articolo",
+      "title": "Gravidanza",
+      "sections": [
+        {
+          "title": "Estratto",
+          "body": "Nel periodo che precede il parto la donna accusa, più frequentemente di sera, dolori di lieve entità localizzati prevalentemente al basso addome e ai lombi, alcuni frequenti, altri radi, di durata di pochi secondi. Questo periodo può durare parecchi giorni e, man mano che il tempo passa, aumentano le contrazioni dell'utero, che crescono di intensità (la donna si accorge che il ventre indurisce tutto con una sensazione dolorosa che dura pochi secondi). Negli ultimi 15 giorni la donna avverte che il fondo dell'utero "
+        },
+        {
+          "title": "Estratto",
+          "body": "Questi sono i sintomi del travaglio e a questo punto è opportuno che la donna si ricoveri per partorire. Durante il travaglio di parto l'ostetrica si prende cura della mamma e del bambino, ascoltando regolarmente i suoi battiti cardiaci. Le contrazioni diventano via via più frequenti e quando il collo dell'utero (canale del parto) è completamente aperto (pronto), la donna avverte il bisogno di spingere. Normalmente il bambino viene alla luce dopo 3-5 spinte valide. Dopo la nascita il cordone ombelicale viene pinzat"
+        },
+        {
+          "title": "Estratto",
+          "body": "Un eccessivo aumento di peso può creare problemi sia durante la gestazione che al momento del parto. Per questo è importante:"
+        }
+      ],
+      "videos": [],
+      "status": "ok"
+    }
+  ],
+  "usable": [
+    {
+      "id": "bge_allattamento",
+      "month": 6,
+      "url": "https://www.ospedalebambinogesu.it/allattamento-al-seno-consigli-pratici-105608/",
+      "source": "Bambino Gesu",
+      "kind": "video",
+      "title": "Allattamento al seno, consigli pratici",
+      "sections": [],
+      "videos": [
+        {
+          "id": "GyDf_9vk6hk",
+          "watchUrl": "https://www.youtube.com/watch?v=GyDf_9vk6hk",
+          "thumbnail": "https://img.youtube.com/vi/GyDf_9vk6hk/hqdefault.jpg"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "bge_pertosse",
+      "month": 8,
+      "url": "https://www.ospedalebambinogesu.it/il-vaccino-contro-la-pertosse-in-gravidanza---intervista-al-dott-tozzi-104234/",
+      "source": "Bambino Gesu",
+      "kind": "video",
+      "title": "Il vaccino contro la pertosse in gravidanza - Intervista al dottor Alberto Eugenio Tozzi",
+      "sections": [],
+      "videos": [
+        {
+          "id": "PRIXwv6-VzQ",
+          "watchUrl": "https://www.youtube.com/watch?v=PRIXwv6-VzQ",
+          "thumbnail": "https://img.youtube.com/vi/PRIXwv6-VzQ/hqdefault.jpg"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "ministero_gravidanza",
+      "month": 9,
+      "url": "https://www.salute.gov.it/new/it/tema/salute-della-donna/gravidanza-0/",
+      "source": "Ministero della Salute",
+      "kind": "articolo",
+      "title": "Gravidanza",
+      "sections": [
+        {
+          "title": "Estratto",
+          "body": "Nel periodo che precede il parto la donna accusa, più frequentemente di sera, dolori di lieve entità localizzati prevalentemente al basso addome e ai lombi, alcuni frequenti, altri radi, di durata di pochi secondi. Questo periodo può durare parecchi giorni e, man mano che il tempo passa, aumentano le contrazioni dell'utero, che crescono di intensità (la donna si accorge che il ventre indurisce tutto con una sensazione dolorosa che dura pochi secondi). Negli ultimi 15 giorni la donna avverte che il fondo dell'utero "
+        },
+        {
+          "title": "Estratto",
+          "body": "Questi sono i sintomi del travaglio e a questo punto è opportuno che la donna si ricoveri per partorire. Durante il travaglio di parto l'ostetrica si prende cura della mamma e del bambino, ascoltando regolarmente i suoi battiti cardiaci. Le contrazioni diventano via via più frequenti e quando il collo dell'utero (canale del parto) è completamente aperto (pronto), la donna avverte il bisogno di spingere. Normalmente il bambino viene alla luce dopo 3-5 spinte valide. Dopo la nascita il cordone ombelicale viene pinzat"
+        },
+        {
+          "title": "Estratto",
+          "body": "Un eccessivo aumento di peso può creare problemi sia durante la gestazione che al momento del parto. Per questo è importante:"
+        }
+      ],
+      "videos": [],
+      "status": "ok"
+    }
+  ]
+}

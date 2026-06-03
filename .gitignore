@@ -1,0 +1,28 @@
+# === Android / Gradle ===
+build/
+.gradle/
+.cxx/
+*.iml
+*.hprof
+local.properties
+
+# === IDE ===
+.idea/
+.kotlin/
+.DS_Store
+
+# === Firma / segreti (NON committare) ===
+# Il keystore di release e le sue password restano solo in locale.
+keystore.properties
+mensis-release.jks
+*.jks
+# NB: app/debug.keystore è volutamente tracciato (password pubblica "android",
+#     serve solo per le build di debug) ed escluso dalla regola *.jks (non è .jks).
+
+# === Artefatti vari ===
+*.apk
+*.aab
+*.jsbundle
+
+# === Strumenti agente locali ===
+.claude/
